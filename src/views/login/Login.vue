@@ -6,7 +6,7 @@
     	</p>
     	<form @submit.prevent="login">
       		<p v-if="error" class="error">{{message}}</p>
-      		<label><input v-model="pass" placeholder="password" type="password"></label> (hint: h382Z3DuHAzE)<br>
+      		<label><input v-model="pass" placeholder="password" type="password"></label><br>
       		<button type="submit">login</button>
 
     	</form>
