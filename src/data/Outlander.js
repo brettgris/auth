@@ -4,8 +4,6 @@ export default {
 
 	"season": "Season 3",
 
-	"pl": "5748328178001",
-
 	"copyright":"&copy; Outlander Copyright",
 
 	"episodes":[
